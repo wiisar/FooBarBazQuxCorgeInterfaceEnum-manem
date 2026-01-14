@@ -1,6 +1,6 @@
 package com.jad;
 
-public class Bar {
+public class Bar implements IBar{
     public void doSomethingLikeABar() {
         // Do nothing
     }

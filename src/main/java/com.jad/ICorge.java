@@ -1,6 +1,7 @@
 package com.jad;
 
 public interface ICorge {
-    void IFoo();
+    public IFoo getFoo();
+    public void setFoo(IFoo foo);
 
 }

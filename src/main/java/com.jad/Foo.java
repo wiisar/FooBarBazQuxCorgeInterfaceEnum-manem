@@ -3,7 +3,7 @@ package com.jad;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Foo {
+public class Foo implements IFoo{
     private IBaz baz;
     private List<IBar> bars;
     private IQux qux;
