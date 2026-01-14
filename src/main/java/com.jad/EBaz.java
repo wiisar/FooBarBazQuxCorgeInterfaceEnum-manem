@@ -11,7 +11,7 @@ public enum EBaz {
         this.name = name;
     }
 
-    private void doSomethingLikeABaz(){
+    public void doSomethingLikeABaz(){
 
     }
 }
